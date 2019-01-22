@@ -10,4 +10,6 @@
 
 填写 `vjudge.py` 里的 `username`  `password` `articlelist` 
 
+`problemnum` 为最终选出的题目数量
+
 运行 得到文件名为 `today-problem.html` 打开即可
